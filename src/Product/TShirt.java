@@ -1,4 +1,4 @@
-package Product;
+package src.Product;
 
 public class TShirt implements IProduct {
     private String name;

@@ -1,4 +1,4 @@
-package Product;
+package src.Product;
 
 // Classe abstrata Decorator 
 public abstract class TShirtDecorator implements IProduct {

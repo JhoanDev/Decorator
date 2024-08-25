@@ -1,4 +1,4 @@
-package Product;
+package src.Product;
 
 // Decorador concreto para adicionar estampa
 public class PrintedTShirtDecorator extends TShirtDecorator {

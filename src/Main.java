@@ -1,5 +1,7 @@
+package src;
 import java.util.Scanner;
-import Product.*;
+
+import src.Product.*;
 
 public class Main {
     public static void main(String[] args) {

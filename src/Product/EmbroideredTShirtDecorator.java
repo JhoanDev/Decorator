@@ -1,4 +1,4 @@
-package Product;
+package src.Product;
 
 // Decorador concreto para adicionar bordado
 public class EmbroideredTShirtDecorator extends TShirtDecorator {

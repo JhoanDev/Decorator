@@ -1,4 +1,4 @@
-package Product;
+package src.Product;
 
 public interface IProduct {
     public String getName();
